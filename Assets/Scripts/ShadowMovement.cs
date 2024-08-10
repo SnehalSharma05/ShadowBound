@@ -29,7 +29,7 @@ public class ShadowMovement : MonoBehaviour
         Vector2 position = transform.position; // Player's position
         Vector2 direction = Vector2.up; // Direction to check for ground
         float distanceToGround = 7f; // How far below the player to check for ground
-        float radius = 3f; // Radius of the overlap circle
+        float radius = 2.5f; // Radius of the overlap circle
         LayerMask groundLayer = LayerMask.GetMask("Ground"); // Layer mask to only check for only ground layer
 
         // Check if there's ground within the circle area below the player
@@ -71,7 +71,7 @@ public class ShadowMovement : MonoBehaviour
         Vector2 position = transform.position; // Player's position
         Vector2 direction = Vector2.up; // Direction to check for ground
         float distanceToGround = 7f; // How far below the player to check for ground
-        float radius = 3f; // Radius of the overlap circle
+        float radius = 2.5f; // Radius of the overlap circle
 
         // Calculate the final position of the circle
         Vector2 finalPosition = position + direction * distanceToGround;
