@@ -41,7 +41,7 @@ Once the project is open, click on the "Play" button in the Unity Editor to star
 ## How to Play
 (Note that this game is intentionally difficult to play and requires time to master timing and patterns)
 - **Movement:** Use the arrow keys for movement and the space bar for jumping.
-- **Objective:** Navigate through obstacles in both the Player World and Shadow World while ensuring the shadow stays attached to the player.
+- **Objective:** Navigate through obstacles in both the Player World and Shadow World while ensuring the shadow stays attached to the player.(IMPORTANT TIP: Leverage the obstacles to keep the player at a position while you attempt to get the shadow back to it)
 - **Power-Up:** Collect the power-up to instantly teleport the shadow back to the player’s position.
 - **Game Over:** The game ends if the shadow is detached for more than 5 seconds or if it leaves the visible screen.
 
