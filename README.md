@@ -51,6 +51,7 @@ Once the project is open, click on the "Play" button in the Unity Editor to star
 - While **detecting landing** to trigger the land animation, I was encountering the same problem so I shifted detection to comparing isGrounded and wasGroundedLastFrame in the update function.
 - **Parallax:** I started out with scripting relative movements in background elements to acheive parallax but as the no. of objects increased, it got increasingly complex. Therefore I switched to relying on natural parallax and spacing my sprites in the z axis (which was very time consuming as they had to be scaled to incorporate the new perspective).
 - Making the **animator logic** was very challenging as I had to think of all scenarios while making state transition triggers and connecting various animation states(It reminded me of FSM design a lot).
+- Upon spamming jump, the animator logic was freezing on Jump. **Fix:** Going from Jump->Idle->Land instead of going Jump->Land->Idle.
 
 ## Future Scope:
 - The game currently has 3 levels. Although the 3 levels themselves are pretty challenging for first time players which I discovered through peer review, I would like to add more levels and obstacles in the future.
