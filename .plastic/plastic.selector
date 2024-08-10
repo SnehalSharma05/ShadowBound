@@ -1,0 +1,4 @@
+repository "Shadowbound@Zeus0507@cloud"
+  path "/"
+    br "/main"
+    co "/main"
