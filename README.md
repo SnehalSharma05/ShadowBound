@@ -42,7 +42,7 @@ Once the project is open, click on the "Play" button in the Unity Editor to star
 - **Movement:** Use the arrow keys for movement and the space bar for jumping.
 - **Objective:** Navigate through obstacles in both the Player World and Shadow World while ensuring the shadow stays attached to the player.(IMPORTANT TIP: Leverage the obstacles to keep the player at a position while you attempt to get the shadow back to it)
 - **Power-Up:** Collect the power-up to instantly teleport the shadow back to the player’s position.
-- **Game Over:** The game ends if the shadow is detached for more than 5 seconds or if it leaves the visible screen.
+- **Game Over:** The game ends if the shadow is detached for more than 5 seconds or if it leaves the visible screen(is pushed into the opposite realm by an obstacle).
 
 ## Challenges faced:
 - This is my first complete Unity project so there was a lot of trial and error involved as I tried to learn through the process. 
