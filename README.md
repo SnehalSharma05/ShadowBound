@@ -35,6 +35,8 @@ The primary goal of ShadowBound is to navigate through a series of obstacles whi
 3. **Play the Game:**
 Once the project is open, click on the "Play" button in the Unity Editor to start the game.
 
+**Demo Gameplay :** https://youtu.be/h5LqAQlxkZw
+
 ## How to Play
 (Note that this game is intentionally difficult to play and requires time to master timing and patterns)
 - **Movement:** Use the arrow keys for movement and the space bar for jumping.
