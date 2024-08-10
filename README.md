@@ -14,9 +14,6 @@ The primary goal of ShadowBound is to navigate through a series of obstacles whi
 - **Forest Theme**: The game is set in a dark, mysterious forest with a noir color scheme. The atmosphere is inspired by games like Limbo, with a haunting and immersive environment.
 - **Original Artwork and Animations**: All game assets, including sprites and animations, were created using GIMP or sourced from royalty-free resources. No Unity Store assets were used. The character animations (jump, land, walk) were crafted by rigging sprites with bones and keyframing their movements.
 
-## Inspirations
-The design and atmosphere of ShadowBound were inspired by the game **Limbo**. The minimalist, monochromatic art style and the eerie, atmospheric setting are key elements that define the visual and thematic tone of the game.
-
 ## Development Tools
 (I have not used any unity store assets in the creation of this game to showcase my abilities to the fullest extent.)
 - **Game Engine**: Unity
@@ -61,4 +58,3 @@ Once the project is open, click on the "Play" button in the Unity Editor to star
 ## Credits
 Game Design & Development: Snehal Sharma  
 Art & Animation design: Snehal Sharma (some images from the internet)  
-Art Inspiration: Limbo (Playdead)
