@@ -26,7 +26,7 @@ The design and atmosphere of ShadowBound were inspired by the game **Limbo**. Th
 ## Installation & Setup
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/ShadowBound.git
+   https://github.com/SnehalSharma05/ShadowBound
 
 2. **Open in Unity:**
 - Open Unity Hub and click on "Add".
