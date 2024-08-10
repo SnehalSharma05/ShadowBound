@@ -33,11 +33,13 @@ The design and atmosphere of ShadowBound were inspired by the game **Limbo**. Th
 - Navigate to the cloned repository folder and select it.
 - Click "Add Project" and open it in Unity.
 
+**Alternately, you can download the executable file in ShadowBound-executable on GitHub.(Not Recommended - Jittery)**
+
 3. **Play the Game:**
 Once the project is open, click on the "Play" button in the Unity Editor to start the game.
 
 ## How to Play
-(Note that this game is intentionally difficult to play and requirees time to master timing and patterns)
+(Note that this game is intentionally difficult to play and requires time to master timing and patterns)
 - **Movement:** Use the arrow keys for movement and the space bar for jumping.
 - **Objective:** Navigate through obstacles in both the Player World and Shadow World while ensuring the shadow stays attached to the player.
 - **Power-Up:** Collect the power-up to instantly teleport the shadow back to the player’s position.
